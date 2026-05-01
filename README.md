@@ -13,7 +13,7 @@ This Excel dashboard analyzes customer purchasing behavior for bike sales.
 - Charts & Slicers
 
 ## 📷 Dashboard Preview
-![Dashboard](your-image-name.png)
+![Dashboard](Bike_Buyer_Dashboard.png)
 
 ## 📁 Files Included
 - Excel Dashboard
